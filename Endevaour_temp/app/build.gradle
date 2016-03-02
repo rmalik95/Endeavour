@@ -7,8 +7,8 @@ android {
         applicationId 'com.kiet.ecell.endeavour'
         minSdkVersion 9
         targetSdkVersion 23
-        versionCode 3
-        versionName "2.1"
+        versionCode 6
+        versionName "3.0"
     }
     buildTypes {
         release {
